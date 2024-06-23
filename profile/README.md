@@ -11,7 +11,7 @@ While we remain an unopinionated platform, we are especially prioritizing based 
 
 ## Links
 
-[Twitter](https://x.com/monea_labs)
-[Docs](https://docs.monealabs.xz)
-[Website](https://monealabs.xyz)
+[Twitter](https://x.com/monea_xyz)
+[Docs](https://docs.monea.xyz)
+[Website](https://monea.xyz)
 
